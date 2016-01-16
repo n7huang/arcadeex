@@ -1,0 +1,13 @@
+Ultimate Arcade EXTREME © 2014
+Dannic Ltd.
+For Mr. Fabroa
+Good luck at your new school, sir!
+Our game is designed as a 'Game Library' of sorts.
+It features a main menu from which the player can access two games.
+
+Tic Tac Toe:
+Standard point and click with a friend. Reset button and scoreboard
+are on the right.
+Hangman:
+Single player arrow key control. Press enter to select letters.
+6 incorrect guesses and you're out!
